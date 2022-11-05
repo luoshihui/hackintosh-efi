@@ -13,14 +13,15 @@
 
 ## 更新
 ![系统版本](./img/Overview.png)
-+ macOS Big Sur 11.1
-+ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.6.5
-+ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.5.0
-+ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.6
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.6
-+ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.9
-+ [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.5
-+ [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.0.5
++ macOS Monterey 12.6
++ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.8.5
++ [OcBinaryData](https://github.com/acidanthera/OcBinaryData)
++ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.2
++ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.6.1
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.7.5
++ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.3.0
++ [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.7
++ [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.1.0
 
 ![节能五项](./img/EnergySaver.png)
 ![内存插槽](./img/Memory.png)
